@@ -6,7 +6,7 @@
  ,{env,[]}
  ,{modules, []}
 
- ,{contributors, ["Tristan Sloughter"]}
+ ,{contributors, ["JHGJKLL"]}
  ,{licenses, ["MIT"]}
  ,{links, [{"Github", "https://github.com/Kozlov-V/rebar3_erlydtl_plugin.git"}]}
  ]}.

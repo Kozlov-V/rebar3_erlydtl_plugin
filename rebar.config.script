@@ -35,7 +35,7 @@ NewCfg = case application:get_key(syntax_tools, vsn) of
          {erl_opts, [{d, 'MERL_DEP'}]}];
     _ ->
         [{deps, [{erlydtl, "",
-                        {git, "https://github.com/erlydtl/erlydtl.git",
+                        {git, "git://github.com/Kozlov-V/erlydtl.git",
                          {branch, "master"}}}]}]
 end,
 
